@@ -1,5 +1,9 @@
 # [2019武汉买房--持续更新 ](http://www.jugetaozi.com/2019-wuhan-house-exp/)
+以电子档的形式记录这段时间看过的房以及政策/注意事项/，方便比较，也为后来买房的人探探路，希望大家都能买一个自己满意的房子。
 
+> 该repo地址： [github仓库](https://github.com/jugetaozi/2019-wuhan-house-exp) https://github.com/jugetaozi/2019-wuhan-house-exp    
+
+> 作者： 吴迪
 
 
 ## 更新于2019-04-27 18:00
