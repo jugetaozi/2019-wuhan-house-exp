@@ -3,7 +3,7 @@
 
 > 该repo地址： [github仓库](https://github.com/jugetaozi/2019-wuhan-house-exp) https://github.com/jugetaozi/2019-wuhan-house-exp    
 
-> 作者： 吴迪
+> 作者： 吴迪      微信号：156343782   欢迎交流~
 
 ## 电子档：http://www.jugetaozi.com/2019-wuhan-house-exp/  ，更新于2019-05-01 15:00
 
