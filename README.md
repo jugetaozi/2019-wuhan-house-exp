@@ -1,11 +1,11 @@
-# [2019武汉买房--持续更新 ](http://www.jugetaozi.com/2019-wuhan-house-exp/)
+# [2019武汉买房--持续更新 ](http://www.jugetaozi.com/wuhan_house/)
 以电子档的形式记录这段时间看过的房以及政策/注意事项/，方便比较，也为后来买房的人探探路，希望大家都能买一个自己满意的房子。
 
-> 该repo地址： [github仓库](https://github.com/jugetaozi/2019-wuhan-house-exp) https://github.com/jugetaozi/2019-wuhan-house-exp    
+> 该repo地址： [github仓库](https://github.com/jugetaozi/wuhan_house) https://github.com/jugetaozi/wuhan_house    
 
 > 作者： 吴迪      微信号：156343782   欢迎交流~
 
-## 电子档：http://www.jugetaozi.com/2019-wuhan-house-exp/  ，更新于2019-05-06 22：00 （第一次更新时间 2019-04-20）
+## 电子档：http://www.jugetaozi.com/wuhan_house/  ，更新于2019-05-06 22：00 （第一次更新时间 2019-04-20）
 
 
 ## 武汉地理
